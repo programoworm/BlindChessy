@@ -1,5 +1,5 @@
 # BlindChessy  
-This is an under development program to practice blindfold chess. It is written in Python. This uses Stockfish chess engine to play the moves.
+This is an under development program to practice blindfold chess. It uses Python-chess package to have a record of the board and projects the SVG data with Qt. Stockfish chess engine is used to play the moves.
 
 ## Requirements  
 The following packages are needed to run BlindChessy,  
