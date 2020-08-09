@@ -93,6 +93,6 @@ def SpeaktoText():
 		input('Press ENTER to move')
 		move=SpeaktoText()
 	return move
-#if __name__=='__main__':
-#	move=SpeaktoText()
-#	print(move)
+if __name__=='__main__':
+	move=SpeaktoText()
+	print(move)
